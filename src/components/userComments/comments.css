@@ -1,0 +1,16 @@
+.comments{
+    margin-top: 50px;
+}
+.comments-title{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    margin-bottom: 70px;
+    color: rgb(212, 67, 14);
+}
+
+.feedback-posts{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
