@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is hosted on :
+https://leafy-manatee-7c07e6.netlify.app
+
 ## Available Scripts
 
 In the project directory, you can run:
