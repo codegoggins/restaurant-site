@@ -80,7 +80,7 @@
         padding: 20px;
     }
     
-    .topCenter-mobile{
+    /* .topCenter-mobile{
         display: flex;
         flex-direction: column;
         transition: all 0.3s linear;
@@ -95,7 +95,7 @@
     .topCenter-mobile li a{
         margin: 60px 0;
         font-size: 20px;
-    }
+    } */
 }
 
 @media(max-width:768px){
